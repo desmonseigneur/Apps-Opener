@@ -1,0 +1,17 @@
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\bin\Debug\net7.0-windows\Apps Opener.exe
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\bin\Debug\net7.0-windows\Apps Opener.deps.json
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\bin\Debug\net7.0-windows\Apps Opener.runtimeconfig.json
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\bin\Debug\net7.0-windows\Apps Opener.dll
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\bin\Debug\net7.0-windows\Apps Opener.pdb
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps_Opener.Form1.resources
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.csproj.GenerateResource.cache
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.AssemblyInfoInputs.cache
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.AssemblyInfo.cs
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.csproj.CoreCompileInputs.cache
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.dll
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\refint\Apps Opener.dll
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.pdb
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps Opener.genruntimeconfig.cache
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\ref\Apps Opener.dll
+C:\Users\jmasu\OneDrive\Desktop\Apps Opener\obj\Debug\net7.0-windows\Apps_Opener.Properties.Resources.resources
